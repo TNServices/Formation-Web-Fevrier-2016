@@ -2,7 +2,7 @@
 
 ## Contenu de la formation
 
-### [HTTP](../0-HTTP)
+### [HTTP](0-HTTP)
 Formation du 10 février 2016 présentant le protocole HTTP.
 
 ## Licence
