@@ -1,0 +1,6 @@
+php:
+    build: .
+    volumes:
+        - ./wwwroot:/var/www/html
+    ports:
+        - 80:80
